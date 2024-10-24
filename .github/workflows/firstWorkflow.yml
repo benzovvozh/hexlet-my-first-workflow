@@ -1,4 +1,5 @@
-name: show-directory
+
+name: firstWorkflow
 # on – определяет события, которые запускают воркфлоу
 on: push
 jobs:
